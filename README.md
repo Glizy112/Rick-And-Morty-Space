@@ -1,7 +1,7 @@
 # Rick-And-Morty-Space
 A react application with Rick and Morty Public API displaying the characters of Rick and Morty series according to their respective residences.
 # Getting Started
-Clone the repo or download it as zip and run the project in VSCode followed by installing all dependencies. Then run the project on development server https://localhost:3000
+Clone the repo or download it as zip and run the project in VSCode followed by installing all dependencies. Then run the project on development server http://localhost:3000
 # Technologies Used
 HTML, CSS, ReactJS, Redux, Material UI 
 # ReactJS
