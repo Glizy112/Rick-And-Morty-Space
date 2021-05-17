@@ -14,7 +14,7 @@ The HyperText Markup Language, or HTML is the standard markup language for docum
 # CSS
 Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.
 # Material UI
-###### npm install @material-ui/core
+#### npm install @material-ui/core
 Material UI is a design system (based on Material Design by Google) for building react components faster.
 # Create-React-App
 #### npx create-react-app app-name
