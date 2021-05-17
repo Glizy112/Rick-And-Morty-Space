@@ -7,16 +7,16 @@ HTML, CSS, ReactJS, Redux, Material UI
 # ReactJS
 React JS is an open-source Javascript library developed by Facebook and maintained by a community of individual developers and companies. Initially released in 2013, the front-end library is used for building user interfaces or UI components.
 # Redux
-# npm install redux
+#### npm install redux
 Redux is an open-source JavaScript library for managing application state. It enables global state management by encapsulating the state in a store and updating it via reducers according to some action associated with it.
 # HTML
 The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser.
 # CSS
 Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.
 # Material UI
-# // with npm
-# npm install @material-ui/core
+#### // with npm
+###### npm install @material-ui/core
 Material UI is a design system (based on Material Design by Google) for building react components faster.
 # Create-React-App
-# npx create-react-app app-name
+#### npx create-react-app app-name
 Create-React-App is the pre-set setup of a react application with all the basic functionalities and environment to run a react application. 
