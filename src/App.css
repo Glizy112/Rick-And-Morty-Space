@@ -1,0 +1,12 @@
+.main_heading {
+  margin-top: 8px;
+  text-align: center;
+  font-size: 35px;
+  text-transform: uppercase;
+  text-shadow:0 0 0 20px rgba(rgb(2rgb(16, 230, 16)4, 44), rgb(47, 76, 238), rgb(240, 52, 93), alpha);
+}
+
+.not_found{
+  font-weight: 700;
+  font-size: larger;
+}
